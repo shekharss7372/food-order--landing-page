@@ -1,0 +1,224 @@
+@media screen and (max-width:700px) {
+
+    .title h1 {
+        font-size: 30px;
+        padding-left: 5px;
+    }
+
+    .call {
+        font-size: 8px;
+        width: 170px;
+    }
+
+    .nav {
+        padding: 4px;
+        font-size: 13px;
+
+    }
+
+    .box h4 {
+        font-size: 15px;
+        padding-top: 5px;
+    }
+
+    .box h1 {
+        font-size: 25px;
+        margin: 5px;
+    }
+
+    .box h6 {
+        font-size: 6px;
+
+        padding: 4px;
+        margin-left: 10px;
+    }
+
+    .box p {
+        margin: 10px;
+        font-size: 12px;
+    }
+
+    .text-order1 {
+        margin: 10px;
+        padding: 10px;
+
+        font-size: 10px;
+    }
+
+    .img {
+        margin: 20px;
+        width: 200px;
+        height: 205px;
+
+
+    }
+
+    .iner-title {
+        padding: 10px;
+        text-align: center;
+
+    }
+
+    .iner-title h1 {
+        padding: 5px;
+        font-size: 30px;
+    }
+
+    .iner-title p {
+        font-size: 15px;
+    }
+
+    .box-item {
+        margin: 10px;
+        padding: 5px;
+        background-size: 100% 55%;
+
+    }
+
+    .food-item {
+        width: 100px;
+        height: 100px;
+
+    }
+
+    .item {
+        margin: 10px;
+        padding: 10px;
+    }
+
+    .box-item h4 {
+        font-size: 18px;
+        padding: 5px;
+    }
+
+    .box-item p {
+        font-size: 14px;
+
+    }
+
+
+    .item button {
+        margin: 10px;
+        padding: 5px;
+        font-size: 6px;
+    }
+
+    .discover {
+        text-align: center;
+    }
+
+
+    .discover P {
+        padding-top: 5px 5PX;
+        font-size: 15px;
+    }
+
+    .img-discover {
+        width: 100%;
+        padding: 47px 0px 10px 10px;
+
+    }
+
+    .img-disc {
+        height: 150px;
+        width: 100%;
+
+    }
+
+    .img-02 {
+        height: 160px;
+
+    }
+
+    .point {
+        width: 90%;
+
+        margin: 20px;
+    }
+
+    .point-box {
+        font-size: 15px;
+
+    }
+
+    .point-1box {}
+
+    .point-2box {}
+
+
+    .point-3box {}
+
+    .from-book-box {
+
+        margin: 20px;
+    }
+
+    .title-form-box {}
+
+    .title-form-box h2 {
+
+        font-size: 20px;
+    }
+
+    .title-form-box h3 {
+
+        font-size: 30px;
+    }
+
+    .form {
+        margin: 10px;
+
+    }
+
+    .text {
+        padding-bottom: 0px;
+
+    }
+
+    .text span {}
+
+    .input {
+
+        margin: 10px;
+
+    }
+
+    .book {}
+
+    .foot-box1 {
+        font-size: 20px;
+
+        padding-left: 22px;
+
+
+    }
+
+    .foot-box2 {
+        font-size: 10px;
+        padding-left: 24px;
+        width: 47%;
+    }
+
+    .foot-box3 {
+        font-size: 11px;
+        padding: 16px;
+    }
+
+    .foot-box4 {
+        font-size: 13px;
+        width: 170px;
+        padding: 21px;
+    }
+
+    .foot-box5 {
+        padding-top: 37px;
+        margin: 0px;
+
+    }
+
+    .foot-box5 img {
+        width: 25px;
+        opacity: 0.8;
+        padding: 10px;
+    }
+}

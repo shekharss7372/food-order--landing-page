@@ -1,0 +1,314 @@
+* {
+    margin: 0;
+    padding: 0;
+    max-height: 100vh;
+    max-width: 100%;
+}
+
+.ui-box-new {
+    background-image: linear-gradient(110deg, rgba(225, 225, 18, 0.9)70%, rgba(225, 225, 225, 2)30%);
+}
+
+.food-box-ui {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    display: flex;
+}
+
+.title h1 {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 45px;
+    padding-left: 20px;
+}
+
+.call {
+    display: flex;
+    width: 230px;
+    text-align: right;
+    font-size: 15px;
+}
+
+.t-img {
+    width: 40px;
+    text-align: center;
+}
+
+.navbar-box {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0PX 30PX;
+}
+
+.nav {
+    padding: 15px;
+    display: flex;
+    font-size: 20px;
+}
+
+.nav-item {
+    display: contents;
+    color: rgb(7, 7, 7);
+}
+
+.title-box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    text-align: center;
+}
+
+.box h4 {
+    font-size: 30px;
+    padding-top: 41px;
+}
+
+.box h1 {
+    font-size: 55px;
+    margin: 10px;
+}
+
+.box h6 {
+    font-size: 20px;
+    border-bottom: 2px solid black;
+    padding: 19px;
+}
+
+.box p {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.text-order1 {
+    margin: 20px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: rgba(249, 249, 5, 0.91);
+}
+
+.img {
+    margin: 20px;
+    width: 400px;
+    height: 405px;
+}
+
+.iner-title {
+    padding: 24px;
+    text-align: center;
+}
+
+.iner-title h1 {
+    padding: 15px;
+    font-size: 50px;
+}
+
+.iner-title p {
+    font-size: 25px;
+}
+
+.box-item {
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    justify-content: space-around;
+    background: url(bgimg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 66%;
+}
+
+.food-item {
+    width: 300px;
+    height: 300px;
+}
+
+.item {
+    margin: 10px;
+    padding: 10px;
+}
+
+.box-item h4 {
+    font-size: 25px;
+    padding: 10px;
+}
+
+.box-item p {
+    font-size: 25px;
+    padding: 10px;
+}
+
+.item button {
+    margin: 20px;
+    padding: 10px;
+    font-size: 13px;
+    background-color: rgba(249, 249, 5, 0.91);
+}
+
+.discover {
+    text-align: center;
+}
+
+.discover P {
+    padding-top: 10px 20PX;
+}
+
+.img-discover {
+    display: flex;
+    width: 100%;
+    padding: 97px 0px 10px 10px;
+}
+
+.img-disc {
+    height: 330px;
+    width: 100%;
+}
+
+.img-02 {
+    height: 340px;
+    z-index: 2;
+    transform: scale(1.1);
+}
+
+.point {
+    display: flex;
+    width: 90%;
+    justify-content: center;
+    margin: 50px;
+}
+
+.point-box {
+    font-size: 20px;
+    color: white;
+}
+
+.point-1box {
+    background: url(Image11.jpg);
+    background-repeat: no-repeat;
+    height: 44vh;
+    background-size: cover;
+    background-position: 69%;
+}
+
+.point-2box {
+    background: url(Image12.jpg);
+    background-repeat: no-repeat;
+    height: 20vh;
+    background-size: cover;
+    background-position: 69%;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin: 0px 0px 0px 28px;
+}
+
+.point-3box {
+    background: url(Image13.jpg);
+    background-repeat: no-repeat;
+    height: 20vh;
+    background-size: cover;
+    background-position: 69%;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin: 25px 0px 0px 28px;
+}
+
+.from-book-box {
+    display: flex;
+    margin: 20px;
+    text-align: center;
+}
+
+.title-form-box {
+    margin-top: 50PX;
+    text-align: center;
+}
+
+.title-form-box h2 {
+    font-size: 30px;
+}
+
+.title-form-box h3 {
+    font-size: 50px;
+}
+
+.form {
+    margin: 20px;
+    text-align: center;
+}
+
+.text {
+    padding-bottom: 32px;
+}
+
+.text span {
+    padding: 20px;
+}
+
+.input {
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.book {
+    margin: 20px;
+    padding: 7px;
+    width: 180px;
+    background: #e6e94c;
+    font-size: 19px;
+    border: 2px solid black;
+}
+
+.bottom {
+    display: flex;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.8)50%, rgba(0, 0, 0, 0.8)), url("/Image13.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    padding: 10px;
+}
+
+.foot-box1 {
+    font-size: 70px;
+    padding-left: 62px;
+    margin: 20px;
+
+}
+
+.foot-box2 {
+    font-size: 20px;
+    padding-left: 84px;
+    width: 60%;
+}
+
+.foot-box3 {
+    font-size: 15px;
+    padding: 84px;
+}
+
+.foot-box4 {
+    font-size: 25px;
+    width: 250px;
+    padding: 24px;
+    justify-items: center;
+    display: block;
+}
+
+.foot-box5 {
+    padding-top: 70px;
+    margin: 10px;
+
+}
+
+.foot-box5 img {
+    width: 30px;
+    opacity: 0.8;
+    padding: 10px;
+}
